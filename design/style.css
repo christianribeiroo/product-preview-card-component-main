@@ -45,6 +45,7 @@ main {
 img {
     width: 300px;
     height: 450px;
+    filter: brightness(90%);
 }
 
 .div-price {
